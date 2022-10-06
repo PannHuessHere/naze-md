@@ -1,8 +1,8 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Recode By IFMeans MODS
+   * Contact Me on wa.me/6281717307804
+   * Follow -
 */
 
 const fs = require('fs')
@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6281717307804']
+global.ownernomer = "6281717307804"
+global.premium = ['6281717307804']
 global.packname = 'Sticker  Naze'
 global.author = 'Naze'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
